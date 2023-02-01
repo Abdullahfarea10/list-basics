@@ -158,7 +158,7 @@ public class ListBasics {
         // Java also gives us the ability to _change_ what's in a list! Here’s
         // how you add a new element to the end of the list:
 
-        magicWords.add("expelliarmus");
+        // magicWords.add("expelliarmus");
 
         // Oops! What happened?! That code compiles. Why doesn't it run?
         //
